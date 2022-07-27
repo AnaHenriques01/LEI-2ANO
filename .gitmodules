@@ -1,0 +1,24 @@
+[submodule "projetoSO"]
+	path = projetoSO
+	url = https://github.com/AnaHenriques01/projetoSO
+[submodule "Sistemas Operaticos @ SO/projetoSO"]
+	path = Sistemas Operaticos @ SO/projetoSO
+	url = https://github.com/AnaHenriques01/projetoSO
+[submodule "Laboratórios de Informática III @ LI3/projetosLI3"]
+	path = Laboratórios de Informática III @ LI3/projetosLI3
+	url = https://github.com/AnaHenriques01/projetosLI3
+[submodule "Programação Orientada aos Objetos @ POO/projetoPOO"]
+	path = Programação Orientada aos Objetos @ POO/projetoPOO
+	url = https://github.com/AnaHenriques01/projetoPOO
+[submodule "Comunicação de Dados @ CD/projetoCD"]
+	path = Comunicação de Dados @ CD/projetoCD
+	url = https://github.com/AnaHenriques01/projetoCD
+[submodule "Métodos Numéricos e Otimização Não Linear @ MNONL/projetoMNONL"]
+	path = Métodos Numéricos e Otimização Não Linear @ MNONL/projetoMNONL
+	url = https://github.com/AnaHenriques01/projetoMNONL
+[submodule "Redes de Computadores @ RC/projetosRC"]
+	path = Redes de Computadores @ RC/projetosRC
+	url = https://github.com/AnaHenriques01/projetosRC
+[submodule "Investigação Operacional @ IO/projetosIO"]
+	path = Investigação Operacional @ IO/projetosIO
+	url = https://github.com/AnaHenriques01/projetosIO
